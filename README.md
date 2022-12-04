@@ -14,7 +14,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="expressjs" alt="expressjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="eslint" alt="eslint" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongo" alt="mongo" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
@@ -27,24 +26,24 @@
 
 </div>
 
-
+<div align="center">
 My projects , as Front-End 💅🏽, Back-End 💽, Web development 🖥️, Learning 🧠, etc.
-
+</div>
 <div align="center">
   <a href="https://portafolio-hector-nunez.vercel.app/">
-    Portafolio
+    💼 Portafolio
   </a>
   <a href="https://poke-app-eight-pi.vercel.app/">
-    PokeApp
+    🥎PokeApp
   </a>
   <a href="https://weeb-list.vercel.app/#/home">
-    WeebList
+    🔍WeebList
   </a>
   <a href="https://nasa-app-iota.vercel.app/">
-    NASApp
+    ☄️NASApp
   </a>
   <a href="https://mathgram.vercel.app/">
-    Mathgram
+    🧮Mathgram
   </a>
   
 </div>
