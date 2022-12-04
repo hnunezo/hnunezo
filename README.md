@@ -30,19 +30,19 @@
 My projects , as Front-End 💅🏽, Back-End 💽, Web development 🖥️, Learning 🧠, etc.
 </div>
 <div align="center">
-  <a href="https://portafolio-hector-nunez.vercel.app/">
+  <a href="https://portafolio-hector-nunez.vercel.app/" target="_blank">
     💼 Portafolio
   </a>
-  <a href="https://poke-app-eight-pi.vercel.app/">
+  <a href="https://poke-app-eight-pi.vercel.app/" target="_blank">
     🥎PokeApp
   </a>
-  <a href="https://weeb-list.vercel.app/#/home">
+  <a href="https://weeb-list.vercel.app/#/home" target="_blank">
     🔍WeebList
   </a>
-  <a href="https://nasa-app-iota.vercel.app/">
+  <a href="https://nasa-app-iota.vercel.app/" target="_blank">
     ☄️NASApp
   </a>
-  <a href="https://mathgram.vercel.app/">
+  <a href="https://mathgram.vercel.app/" target="_blank">
     🧮Mathgram
   </a>
   
