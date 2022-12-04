@@ -27,24 +27,23 @@
 </div>
 
 <div align="center">
-My projects , as Front-End 💅🏽, Back-End 💽, Web development 🖥️, Learning 🧠, etc.
+  Front-End 💅🏽, Back-End 💽, Web development 🖥️.
 </div>
 <div align="center">
-  <a href="https://portafolio-hector-nunez.vercel.app/" target="_blank">
+  <a href="https://portafolio-hector-nunez.vercel.app/">
     💼 Portafolio
   </a>
-  <a href="https://poke-app-eight-pi.vercel.app/" target="_blank">
+  <a href="https://poke-app-eight-pi.vercel.app/">
     🥎PokeApp
   </a>
-  <a href="https://weeb-list.vercel.app/#/home" target="_blank">
+  <a href="https://weeb-list.vercel.app/#/home">
     🔍WeebList
   </a>
-  <a href="https://nasa-app-iota.vercel.app/" target="_blank">
+  <a href="https://nasa-app-iota.vercel.app/">
     ☄️NASApp
   </a>
-  <a href="https://mathgram.vercel.app/" target="_blank">
+  <a href="https://mathgram.vercel.app/">
     🧮Mathgram
   </a>
-  
 </div>
 
